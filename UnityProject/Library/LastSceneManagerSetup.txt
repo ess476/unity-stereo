@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/UniCAVE/Scenes/xrtest.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
